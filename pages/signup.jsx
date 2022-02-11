@@ -103,7 +103,7 @@ const Signup = () => {
         />
         <Link href="/signin">
           <a className="text-teal-700 text-sm cursor-pointer">
-            Already have an account ? sign in {`>`}
+            Already have an account ? sign in
           </a>
         </Link>
       </form>

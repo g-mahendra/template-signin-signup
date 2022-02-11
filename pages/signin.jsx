@@ -82,7 +82,7 @@ const Signin = () => {
         />
         <Link href="/signup">
           <a className="text-teal-700 text-sm cursor-pointer">
-            Don't have an account ? create one {`>`}
+            Don't have an account ? create one 
           </a>
         </Link>
       </form>
